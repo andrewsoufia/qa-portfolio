@@ -48,4 +48,4 @@ Python · PyTest · Selenium · Playwright · Postman · SQL (SQLite) · Git and
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/andrew-soufia-198273399/
+- LinkedIn: https://www.linkedin.com/in/andrew-soufia/
